@@ -456,4 +456,3 @@ lead"><%=request.getAttribute("Message")%></h3>
 
 La pagina non fa altro che mostrare il messaggio creato nel servlet in 
 base al risultato finale.
-
