@@ -23,8 +23,7 @@ e creare una nuova password app. Questa password ci serve per poter
 accedere dopo.
 - Dobbiamo importare nella sottocartella WEB-INF/LIB del nostro progetto 
 due librerie:
-- 
-[activation](https://www.oracle.com/java/technologies/java-beans-activation.html)
+- [activation](https://www.oracle.com/java/technologies/java-beans-activation.html)
 - [javax.mail](https://javaee.github.io/javamail/)
 - Ora dobbiamo aggiungere il file ‘web.xml’ nel quale possiamo inserire le 
 nostre credenziali per l’accesso. Si crea facilmente facendo tasto destro 
